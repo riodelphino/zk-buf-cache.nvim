@@ -56,3 +56,5 @@ MIT license. See [LICENSE](LICENSE)
 - [zk-org/zk](https://github.com/zk-org/zk)
 - [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim)
 - [riodelphino/zk-bufferline.nvim](https://github.com/riodelphino/zk-bufferline.nvim)
+- [riodelphino/zk-new.nvim](https://github.com/riodelphino/zk-new.nvim)
+
